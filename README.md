@@ -23,7 +23,7 @@ Data-Science-with-Python/
 ├── fake_content_detection/ # NLP + metadata-based bias and fake news detection
 ├── delivery_delay_classification/ # Predicting early, on-time, or late deliveries
 ├── earthquake damage classification/ # Predicting low, medium, or high grade earthquake damage
-├── China real estate demand prediction/ # Regression models for real estate demand forecasting
+├── china real estate demand prediction/ # Regression models for real estate demand forecasting
 ├── borehole functionality classification/ # Predicting function, non-functional, or functional needs repair boreholes
 ├── notebooks/ # Shared EDA, feature engineering, and model experiments
 ├── scripts/ # Reusable Python utilities
