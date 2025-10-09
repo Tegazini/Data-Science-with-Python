@@ -85,19 +85,19 @@ Data-Science-with-Python/
    git clone https://github.com/Tegazini/Data-Science-with-Python.git
 Navigate into the folder
 
-bash
-Copy code
+```bash
 cd Data-Science-with-Python
+
 Install dependencies
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+
 Run notebooks
 
-bash
-Copy code
+```bash
 jupyter notebook
+
 Explore each project folder for its own datasets and notebook scripts.
 
 🌟 Future Work
