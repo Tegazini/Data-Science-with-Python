@@ -87,17 +87,14 @@ Navigate into the folder
 
 ```bash
 cd Data-Science-with-Python
-
 Install dependencies
 
 ```bash
 pip install -r requirements.txt
-
 Run notebooks
 
 ```bash
 jupyter notebook
-
 Explore each project folder for its own datasets and notebook scripts.
 
 🌟 Future Work
