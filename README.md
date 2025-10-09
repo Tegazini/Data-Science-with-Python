@@ -95,14 +95,14 @@ Data-Science-with-Python/
 
 Explore each project folder for its own datasets and notebook scripts.
 
-🌟 Future Work
-Add deep learning experiments with TensorFlow/PyTorch
+## 🌟 Future Work
+* Add deep learning experiments with TensorFlow/PyTorch
 
-Incorporate MLOps tools (e.g., MLflow, DVC) for versioned model tracking
+* Incorporate MLOps tools (e.g., MLflow, DVC) for versioned model tracking
 
-Deploy selected models using Streamlit or FastAPI
+* Deploy selected models using Streamlit or FastAPI
 
-🧾 Author
+## 🧾 Author
 👤 Tega Jarikre
 📧 Email: jarikretega@gmail.com
 🔗 LinkedIn: linkedin.com/in/tega
