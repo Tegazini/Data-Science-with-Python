@@ -97,15 +97,13 @@ Explore each project folder for its own datasets and notebook scripts.
 
 ## 🌟 Future Work
 * Add deep learning experiments with TensorFlow/PyTorch
-
 * Incorporate MLOps tools (e.g., MLflow, DVC) for versioned model tracking
-
 * Deploy selected models using Streamlit or FastAPI
 
 ## 🧾 Author
-👤 Tega Jarikre
-📧 Email: jarikretega@gmail.com
-🔗 LinkedIn: linkedin.com/in/tega
-💻 GitHub: github.com/Tegazini
+### 👤 Tega Jarikre
+### 📧 Email: jarikretega@gmail.com
+### 🔗 LinkedIn: linkedin.com/in/tega
+### 💻 GitHub: github.com/Tegazini
 
 "Data science isn’t just about algorithms — it’s about understanding data deeply enough to tell meaningful stories."
