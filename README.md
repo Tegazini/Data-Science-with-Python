@@ -103,7 +103,7 @@ Explore each project folder for its own datasets and notebook scripts.
 ## 🧾 Author
 ### 👤 Tega Jarikre
 ### 📧 Email: jarikretega@gmail.com
-### 🔗 LinkedIn: linkedin.com/in/tega
-### 💻 GitHub: github.com/Tegazini
+### 🔗 LinkedIn: https://www.linkedin.com/in/tega-jarikre-92138342
+### 💻 GitHub: https://github.com/Tegazini
 
 "Data science isn’t just about algorithms — it’s about understanding data deeply enough to tell meaningful stories."
