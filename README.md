@@ -109,6 +109,11 @@ This repository aims to:
 ## 👤 Author
 
 ### Tega Jarikre
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tega-jarikre-92138342)
+<br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tegazini)
+<br>
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jarikretega@gmail.com)
 
 <a href="mailto:jarikretega@gmail.com" target="_blank" style="text-decoration:none; color:#D44638;">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
@@ -124,7 +129,8 @@ This repository aims to:
   linkedin.com/in/tega-jarikre-92138342
 </a>
 
-##
+---
+
 <a href="https://www.credly.com/users/tega-jarikre" target="_blank" style="text-decoration:none; color:#000;">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg"
        alt="Credly" width="22" height="22"
