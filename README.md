@@ -121,12 +121,10 @@ This repository aims to:
 
 ---
 
-<a href="https://www.credly.com/users/tega-jarikre" target="_blank" style="text-decoration:none; color:#000;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg"
-       alt="Credly" width="22" height="22"
-       style="vertical-align:middle; margin-right:6px; filter: invert(48%) sepia(84%) saturate(1655%) hue-rotate(359deg) brightness(101%) contrast(101%);">
-  View My Credly Certifications
-</a>
+
+## View My Certifications
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?logo=credly&logoColor=white&style=flat)](https://www.credly.com/users/tega-jarikre)
+---
 
 ## 🌟 Support
 
