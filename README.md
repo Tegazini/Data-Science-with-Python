@@ -23,11 +23,9 @@ Data-Science-with-Python/
 ├──  fake_content_detection/                # NLP + metadata-based bias and fake news detection
 ├──  delivery_delay_classification/         # Predicting early, on-time, or late deliveries
 ├──  productivity_yield_analysis/           # Agricultural yield and efficiency models
-│
 ├──  earthquake_damage_prediction/          # DrivenData project: structural damage classification after earthquakes
 ├──  china_real_estate_demand_prediction/   # Kaggle project: forecasting real estate demand in Chinese cities
 ├──  borehole_functionality_classification/ # DrivenData project: classifying boreholes as functional or non-functional
-│
 ├──  notebooks/                             # Shared EDA, feature engineering, and model experiments
 ├──  scripts/                               # Reusable Python utilities
 ├──  data/                                  # Sample datasets (clean or synthetic)
