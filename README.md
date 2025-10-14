@@ -40,6 +40,7 @@ Data-Science-with-Python/
 ---
 
 ## 🧰 Tech Stack
+```bash
 | Category | Tools & Libraries |
 |-----------|-------------------|
 | **Core Language** | Python 3.10+ |
