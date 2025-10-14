@@ -22,9 +22,12 @@ Data-Science-with-Python/
 ├── insurance_premium_prediction/ # Regression models for premium forecasting
 ├── fake_content_detection/ # NLP + metadata-based bias and fake news detection
 ├── delivery_delay_classification/ # Predicting early, on-time, or late deliveries
-├── earthquake damage classification/ # Predicting low, medium, or high grade earthquake damage
-├── china real estate demand prediction/ # Regression models for real estate demand forecasting
-├── borehole functionality classification/ # Predicting function, non-functional, or functional needs repair boreholes
+├── productivity_yield_analysis/ # Agricultural yield and efficiency models
+│
+├── earthquake_damage_prediction/ # DrivenData project: structural damage classification after earthquakes
+├── china_real_estate_demand_prediction/ # Kaggle project: forecasting real estate demand in Chinese cities
+├── borehole_functionality_classification/# DrivenData project: classifying boreholes as functional or non-functional
+│
 ├── notebooks/ # Shared EDA, feature engineering, and model experiments
 ├── scripts/ # Reusable Python utilities
 ├── data/ # Sample datasets (clean or synthetic)
