@@ -123,7 +123,7 @@ This repository aims to:
        style="vertical-align:middle; margin-right:6px;">
   linkedin.com/in/tega-jarikre-92138342
 </a>
-
+<br>
 
 
 <a href="https://www.credly.com/users/tega-jarikre" target="_blank" style="text-decoration:none; color:#000;">
