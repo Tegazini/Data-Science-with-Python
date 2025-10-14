@@ -110,8 +110,10 @@ This repository aims to:
 
 ### Tega Jarikre
 ### 📧 [Email](jarikretega@gmail.com)
-### 🔗 [LinkedIn](https://www.linkedin.com/in/tega-jarikre-92138342)
-### 💻 [Credly](https://www.credly.com/users/tega-jarikre)
+### <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/a6e26788-1305-445e-9b68-eee9d04aed8a" />
+ [LinkedIn](https://www.linkedin.com/in/tega-jarikre-92138342)
+### <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/fa0976a2-f7f6-4d8c-a5ea-ec33b044c6d0" />
+ [Credly](https://www.credly.com/users/tega-jarikre)
 
 ## 🌟 Support
 
