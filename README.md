@@ -111,11 +111,11 @@ This repository aims to:
 ### Tega Jarikre
 ### 📧 [Email](jarikretega@gmail.com)
 <p>
-  <img src="https://github.com/user-attachments/assets/a6e26788-1305-445e-9b68-eee9d04aed8a" width="48" height="48" alt="LinkedIn" style="vertical-align:middle; margin-right:6px;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" style="vertical-align:middle; margin-right:6px;">
   <a href = "https://www.linkedin.com/in/tega-jarikre-92138342" target="_blank">linkedin.com/in/tega-jarikre-92138342</a>
 </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/fa0976a2-f7f6-4d8c-a5ea-ec33b044c6d0", width="32" height="32" alt="Credly" style="vertical-align:middle; margin-right:6px;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg, width="32" height="32" alt="Credly" style="vertical-align:middle; margin-right:6px;">
   <a href = "https://www.credly.com/users/tega-jarikre" target="_blank">credly.com/users/tega-jarikre</a>
 </p>
 
