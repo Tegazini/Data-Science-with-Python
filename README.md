@@ -11,8 +11,7 @@ Each project is organized into its own folder with datasets, notebooks, scripts,
 - Machine learning model training, optimization, and evaluation
 - Explainable AI (XAI) techniques such as SHAP analysis
 - Deployment-ready scripts and reproducible environments
-
-Every project demonstrates key data science competencies — from handling raw data to building interpretable, high-performance predictive models.
+* Every project demonstrates key data science competencies — from handling raw data to building interpretable, high-performance predictive models.
 ---
 
 ## 🧩 Repository Structure
