@@ -118,14 +118,14 @@ This repository aims to:
        style="vertical-align:middle; margin-right:6px;">
   linkedin.com/in/tega-jarikre-92138342
 </a>
-
+<br>
 <a href="https://www.credly.com/users/tega-jarikre" target="_blank" style="text-decoration:none; color:#000;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Credly_Logo.svg"
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg"
        alt="Credly" width="22" height="22"
-       style="vertical-align:middle; margin-right:6px;">
+       style="vertical-align:middle; margin-right:6px; filter: invert(48%) sepia(84%) saturate(1655%) hue-rotate(359deg) brightness(101%) contrast(101%);">
   View My Credly Certifications
 </a>
-```
+
 ## 🌟 Support
 
 If you find this repository useful, consider starring ⭐ it to show your support and help others discover it!
