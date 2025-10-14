@@ -2,6 +2,7 @@
 
 Welcome to my Data Science with Python repository — a collection of machine learning, data analysis, and predictive modeling projects exploring various real-world problems.
 Each project is organized into its own folder with datasets, notebooks, scripts, and results, all written in clean, modular Python.
+
 ---
 
 ## 🚀 About This Repository
@@ -33,6 +34,7 @@ Data-Science-with-Python/
 ├── results/                               # Visualizations and performance reports
 ├── requirements.txt                       # Dependencies for reproducibility
 └── README.md                              # You’re here!
+
 ---
 
 ## 🧩 Highlighted Projects
