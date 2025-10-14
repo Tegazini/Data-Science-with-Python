@@ -71,7 +71,7 @@ Data-Science-with-Python/
 - Classified boreholes as functional or non-functional based on geospatial and usage data.
 - Employed feature engineering, missing value imputation, and tree-based models.
 
-### 🧰 Technologies Used
+## 🧰 Technologies Used
 
 - Languages: Python (Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch)
 - Visualization: Matplotlib, Seaborn, Plotly, SHAP
@@ -79,41 +79,40 @@ Data-Science-with-Python/
 - ML Ops: Git, Jupyter, VS Code, Google Colab
 - Other Tools: Pandas-Profiling, Optuna (for hyperparameter tuning)
 
-### ⚙️ How to Use
-# Clone the repository
+## ⚙️ How to Use
+### Clone the repository
 ```bash
 git clone https://github.com/<your-username>/Data-Science-with-Python.git
-# Navigate into the project folder
+```
+### Navigate into the project folder
 ```bash
 cd Data-Science-with-Python
-
-# (Optional) Create a virtual environment
+```
+### (Optional) Create a virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate   # for Linux/Mac
 venv\Scripts\activate      # for Windows
-
-# Install dependencies
+```
+### Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-📊 Project Goals
+## 📊 Project Goals
 
 This repository aims to:
+- Demonstrate versatility across multiple data science problem domains
+- Serve as a personal learning and experimentation hub
+- Showcase reproducible workflows and technical breadth
 
-Demonstrate versatility across multiple data science problem domains
+## 👤 Author
 
-Serve as a personal learning and experimentation hub
+### Tega Jarikre
+### 📧 jarikretega@gmail.com
+### 🔗 LinkedIn
+### 💻 GitHub
 
-Showcase reproducible workflows and technical breadth
-
-👤 Author
-
-Tega Jarikre
-📧 jarikretega@gmail.com
-
-🔗 LinkedIn
-
-💻 GitHub
-
-🌟 Support
+## 🌟 Support
 
 If you find this repository useful, consider starring ⭐ it to show your support and help others discover it!
