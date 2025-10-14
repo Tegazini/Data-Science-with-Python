@@ -16,7 +16,7 @@ Each project is organized into its own folder with datasets, notebooks, scripts,
 ---
 
 ## 🧩 Repository Structure
-
+```bash
 Data-Science-with-Python/
 │
 ├──  insurance_premium_prediction/          # Regression models for premium forecasting
