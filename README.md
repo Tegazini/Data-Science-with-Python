@@ -110,7 +110,7 @@ This repository aims to:
 
 ### Tega Jarikre
 ### 📧 jarikretega@gmail.com
-### 🔗 LinkedIn
+### [🔗 LinkedIn](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbSDjwBaiTFele7NJNVnDsg%3D%3D)
 ### 💻 GitHub
 
 ## 🌟 Support
