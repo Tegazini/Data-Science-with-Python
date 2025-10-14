@@ -32,7 +32,7 @@ Data-Science-with-Python/
 ├──  results/                               # Visualizations and performance reports
 ├──  requirements.txt                       # Dependencies for reproducibility
 └──  README.md                              # You’re here!
-
+```
 ---
 
 ## 🧩 Highlighted Projects
