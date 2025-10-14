@@ -112,14 +112,13 @@ This repository aims to:
 ### 📧 [Email](jarikretega@gmail.com)
 <p>
   <a href = "https://www.linkedin.com/in/tega-jarikre-92138342" target="_blank" style="text-decoration:none; color:#0A66C2;>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" 
-      style="vertical-align:middle; margin-right:6px; filter: invert(22%) sepia(100%) saturate(2295%) hue-rotate(193deg) brightness(96%) contrast(101%);">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"            style="vertical-align:middle; margin-right:6px; filter: invert(22%) sepia(100%) saturate(2295%) hue-rotate(193deg)               brightness(96%) contrast(101%);">
       linkedin.com/in/tega-jarikre-92138342
   </a>
 </p>
 <p>
   <a href = "https://www.credly.com/users/tega-jarikre" target="_blank" style="text-decoration:none; color:#0A66C2;>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg, width="32" height="32" alt="Credly" style="vertical-align:middle; margin-right:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg, width="32" height="32" alt="Credly"                 style="vertical-align:middle; margin-right:6px;">
       credly.com/users/tega-jarikre
   </a>
 </p>
