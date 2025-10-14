@@ -19,21 +19,21 @@ Each project is organized into its own folder with datasets, notebooks, scripts,
 
 Data-Science-with-Python/
 │
-├── insurance_premium_prediction/          # Regression models for premium forecasting
-├── fake_content_detection/                # NLP + metadata-based bias and fake news detection
-├── delivery_delay_classification/         # Predicting early, on-time, or late deliveries
-├── productivity_yield_analysis/           # Agricultural yield and efficiency models
+├──  insurance_premium_prediction/          # Regression models for premium forecasting
+├──  fake_content_detection/                # NLP + metadata-based bias and fake news detection
+├──  delivery_delay_classification/         # Predicting early, on-time, or late deliveries
+├──  productivity_yield_analysis/           # Agricultural yield and efficiency models
 │
-├── earthquake_damage_prediction/          # DrivenData project: structural damage classification after earthquakes
-├── china_real_estate_demand_prediction/   # Kaggle project: forecasting real estate demand in Chinese cities
-├── borehole_functionality_classification/ # DrivenData project: classifying boreholes as functional or non-functional
+├──  earthquake_damage_prediction/          # DrivenData project: structural damage classification after earthquakes
+├──  china_real_estate_demand_prediction/   # Kaggle project: forecasting real estate demand in Chinese cities
+├──  borehole_functionality_classification/ # DrivenData project: classifying boreholes as functional or non-functional
 │
-├── notebooks/                             # Shared EDA, feature engineering, and model experiments
-├── scripts/                               # Reusable Python utilities
-├── data/                                  # Sample datasets (clean or synthetic)
-├── results/                               # Visualizations and performance reports
-├── requirements.txt                       # Dependencies for reproducibility
-└── README.md                              # You’re here!
+├──  notebooks/                             # Shared EDA, feature engineering, and model experiments
+├──  scripts/                               # Reusable Python utilities
+├──  data/                                  # Sample datasets (clean or synthetic)
+├──  results/                               # Visualizations and performance reports
+├──  requirements.txt                       # Dependencies for reproducibility
+└──  README.md                              # You’re here!
 
 ---
 
