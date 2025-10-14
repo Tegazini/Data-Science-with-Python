@@ -112,14 +112,18 @@ This repository aims to:
 
 📧 jarikretega@gmail.com
 
-<a href = "https://www.linkedin.com/in/tega-jarikre-92138342" target="_blank" style="text-decoration:none; color:#0A66C2;>
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="22" height="22" style="vertical-align:middle;               margin-right:6px;">
-    linkedin.com/in/tega-jarikre-92138342
+<a href="https://www.linkedin.com/in/tega-jarikre-92138342" target="_blank" style="text-decoration:none; color:#0A66C2;">
+  <img src="https://skillicons.dev/icons?i=linkedin" 
+       alt="LinkedIn" width="22" height="22" 
+       style="vertical-align:middle; margin-right:6px;">
+  linkedin.com/in/tega-jarikre-92138342
 </a>
 
-<a href = "https://www.credly.com/users/tega-jarikre" target="_blank" style="text-decoration:none; color:#0A66C2;>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/credly.svg, width="32" height="32" alt="Credly"                 style="vertical-align:middle; margin-            right:6px;">
-    credly.com/users/tega-jarikre
+<a href="https://www.credly.com/users/tega-jarikre" target="_blank" style="text-decoration:none; color:#000;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Credly_Logo.svg"
+       alt="Credly" width="22" height="22"
+       style="vertical-align:middle; margin-right:6px;">
+  View My Credly Certifications
 </a>
 
 ## 🌟 Support
