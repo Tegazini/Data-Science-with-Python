@@ -110,8 +110,13 @@ This repository aims to:
 
 ### Tega Jarikre
 
-📧 jarikretega@gmail.com
-
+<a href="mailto:jarikretega@gmail.com" target="_blank" style="text-decoration:none; color:#D44638;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+       alt="Gmail" width="22" height="22"
+       style="vertical-align:middle; margin-right:6px;">
+  jarikretega@gmail.com
+</a>
+<br>
 <a href="https://www.linkedin.com/in/tega-jarikre-92138342" target="_blank" style="text-decoration:none; color:#0A66C2;">
   <img src="https://skillicons.dev/icons?i=linkedin" 
        alt="LinkedIn" width="22" height="22" 
