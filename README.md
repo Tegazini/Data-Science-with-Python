@@ -109,8 +109,8 @@ This repository aims to:
 ## 👤 Author
 
 ### Tega Jarikre
-### 📧 [Email]jarikretega@gmail.com
-### 🔗 [LinkedIn](https://www.linkedin.com/in/tega-jarikre-92138342
+### 📧 [Email](jarikretega@gmail.com)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/tega-jarikre-92138342)
 ### 💻 [Credly](https://www.credly.com/users/tega-jarikre)
 
 ## 🌟 Support
