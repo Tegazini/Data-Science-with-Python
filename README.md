@@ -1,24 +1,19 @@
 # 🧠 Data Science with Python
 
-Welcome to **Data Science with Python** — a curated portfolio of practical data science and machine learning projects developed by **Tega Jarikre**.  
-Each project demonstrates real-world applications of Python in solving problems across insurance, logistics, content moderation, and agricultural analytics.
+Welcome to my Data Science with Python repository — a collection of machine learning, data analysis, and predictive modeling projects exploring various real-world problems.
+Each project is organized into its own folder with datasets, notebooks, scripts, and results, all written in clean, modular Python.
 
-This repository represents a continuous learning journey in **data-driven problem-solving**, from raw data wrangling to model deployment.
+## 🚀 About This Repository
 
----
+- This repository serves as a portfolio of end-to-end data science workflows, covering:
+- Data cleaning, feature engineering, and exploratory data analysis (EDA)
+- Machine learning model training, optimization, and evaluation
+- Explainable AI (XAI) techniques such as SHAP analysis
+- Deployment-ready scripts and reproducible environments
 
-## 🚀 Project Objectives
-- Build and evaluate **machine learning models** across diverse domains  
-- Apply **data preprocessing**, **feature engineering**, and **model optimization** techniques  
-- Experiment with **classification**, **regression**, and **clustering** algorithms  
-- Explore **bias detection**, **economic efficiency**, and **yield analysis** using real datasets  
-- Strengthen portfolio readiness for **data science career roles**
-
----
+Every project demonstrates key data science competencies — from handling raw data to building interpretable, high-performance predictive models.
 
 ## 🧩 Repository Structure
-
-```bash
 Data-Science-with-Python/
 │
 ├── insurance_premium_prediction/          # Regression models for premium forecasting
@@ -37,81 +32,88 @@ Data-Science-with-Python/
 ├── requirements.txt                       # Dependencies for reproducibility
 └── README.md                              # You’re here!
 
----
+## 🧩 Highlighted Projects
+### 🏠 Insurance Premium Prediction
 
-## 🧰 Tech Stack
+* Built regression models to predict insurance premium costs.
+* Compared multiple algorithms (Linear Regression, Random Forest, XGBoost).
+* Included model explainability using SHAP values.
+
+### 📰 Fake Content Detection
+
+- NLP-based classifier to identify biased or fake articles.
+- Combined text embeddings and metadata features.
+- Explored interpretability through word importance visualization.
+
+### 🚚 Delivery Delay Classification
+
+- Multiclass classification to predict whether deliveries arrive early, on time, or late.
+- Implemented Logistic Regression, Random Forest, and XGBoost models.
+- Focused on model calibration and performance analysis.
+
+### 🌾 Productivity & Yield Analysis
+
+- Agricultural data exploration to model yield and optimize production factors.
+- Applied regression and feature importance analysis for insights.
+
+### 🌍 Earthquake Damage Prediction (DrivenData)
+
+- Competition project predicting building damage levels after earthquakes.
+- Used structured data preprocessing and ensemble learning.
+
+### 🏢 China Real Estate Demand Prediction (Kaggle)
+
+- Forecasting demand for real estate in various Chinese cities.
+- Applied advanced regression and time series modeling techniques.
+
+### 💧 Borehole Functionality Classification (DrivenData)
+
+- Classified boreholes as functional or non-functional based on geospatial and usage data.
+- Employed feature engineering, missing value imputation, and tree-based models.
+
+### 🧰 Technologies Used
+
+- Languages: Python (Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch)
+- Visualization: Matplotlib, Seaborn, Plotly, SHAP
+- NLP: NLTK, spaCy, TF-IDF, Word2Vec
+- ML Ops: Git, Jupyter, VS Code, Google Colab
+- Other Tools: Pandas-Profiling, Optuna (for hyperparameter tuning)
+
+### ⚙️ How to Use
+# Clone the repository
 ```bash
-| Category | Tools & Libraries |
-|-----------|-------------------|
-| **Core Language** | Python 3.10+ |
-| **Data Manipulation** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn, Plotly |
-| **Modeling & ML** | Scikit-learn, XGBoost, Random Forest, Logistic Regression |
-| **NLP & Text Analytics** | NLTK, spaCy, TF-IDF, Word2Vec |
-| **Evaluation & Metrics** | Precision, Recall, F1-score, RMSE, ROC-AUC |
-| **Version Control** | Git & GitHub |
-| **Notebooks & IDEs** | Jupyter Notebook, VS Code |
+git clone https://github.com/<your-username>/Data-Science-with-Python.git
+# Navigate into the project folder
+```bash
+cd Data-Science-with-Python
 
----
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate   # for Linux/Mac
+venv\Scripts\activate      # for Windows
 
-## 📊 Highlighted Projects
+# Install dependencies
+pip install -r requirements.txt
 
-### 1️⃣ Insurance Premium Prediction
-- **Goal:** Predict customer insurance premiums using demographic and risk variables.  
-- **Approach:** Regression models (Linear Regression, XGBoost, Random Forest).  
-- **Focus:** Feature selection, multicollinearity detection, and interpretability.  
+📊 Project Goals
 
-### 2️⃣ Fake or Biased Content Detection
-- **Goal:** Classify online content as *fake*, *biased*, or *neutral*.  
-- **Approach:** Natural Language Processing (NLP) with metadata features.  
-- **Focus:** Text cleaning, vectorization (TF-IDF), and ensemble learning.  
+This repository aims to:
 
-### 3️⃣ Delivery Delay Classification
-- **Goal:** Predict delivery status — *early*, *on time*, or *late*.  
-- **Approach:** Multi-class classification with Logistic Regression, XGBoost, and Random Forest.  
-- **Focus:** Handling class imbalance, feature importance, and business impact analysis.  
+Demonstrate versatility across multiple data science problem domains
 
-### 4️⃣ Agricultural Efficiency & Productivity Studies
-- **Goal:** Analyze farm typology, post-harvest loss, and yield determinants.  
-- **Approach:** Clustering, feature selection, and supervised learning for productivity prediction.  
-- **Focus:** Data science-driven agricultural analytics.  
+Serve as a personal learning and experimentation hub
 
----
+Showcase reproducible workflows and technical breadth
 
-## 📚 Learning Focus Areas
-- Data wrangling and cleaning workflows  
-- Feature engineering and transformation  
-- Model training, validation, and hyperparameter tuning  
-- Model interpretability (SHAP, feature importance)  
-- End-to-end data science pipeline documentation  
+👤 Author
 
----
+Tega Jarikre
+📧 jarikretega@gmail.com
 
-## 🧑‍💻 How to Use
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Tegazini/Data-Science-with-Python.git
-2. **Navigate into the folder**
-   ```bash
-   cd Data-Science-with-Python
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-4. **Run notebooks**
-   ```bash
-   jupyter notebook
+🔗 LinkedIn
 
-Explore each project folder for its own datasets and notebook scripts.
+💻 GitHub
 
-## 🌟 Future Work
-* Add deep learning experiments with TensorFlow/PyTorch
-* Incorporate MLOps tools (e.g., MLflow, DVC) for versioned model tracking
-* Deploy selected models using Streamlit or FastAPI
+🌟 Support
 
-## 🧾 Author
-### 👤 Tega Jarikre
-### 📧 Email: jarikretega@gmail.com
-### 🔗 LinkedIn: https://www.linkedin.com/in/tega-jarikre-92138342
-### 💻 GitHub: https://github.com/Tegazini
-
-"Data science isn’t just about algorithms — it’s about understanding data deeply enough to tell meaningful stories."
+If you find this repository useful, consider starring ⭐ it to show your support and help others discover it!
