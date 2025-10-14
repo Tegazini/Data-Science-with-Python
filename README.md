@@ -2,6 +2,7 @@
 
 Welcome to my Data Science with Python repository — a collection of machine learning, data analysis, and predictive modeling projects exploring various real-world problems.
 Each project is organized into its own folder with datasets, notebooks, scripts, and results, all written in clean, modular Python.
+---
 
 ## 🚀 About This Repository
 
@@ -12,6 +13,7 @@ Each project is organized into its own folder with datasets, notebooks, scripts,
 - Deployment-ready scripts and reproducible environments
 
 Every project demonstrates key data science competencies — from handling raw data to building interpretable, high-performance predictive models.
+---
 
 ## 🧩 Repository Structure
 Data-Science-with-Python/
@@ -31,6 +33,7 @@ Data-Science-with-Python/
 ├── results/                               # Visualizations and performance reports
 ├── requirements.txt                       # Dependencies for reproducibility
 └── README.md                              # You’re here!
+---
 
 ## 🧩 Highlighted Projects
 ### 🏠 Insurance Premium Prediction
@@ -70,6 +73,7 @@ Data-Science-with-Python/
 
 - Classified boreholes as functional or non-functional based on geospatial and usage data.
 - Employed feature engineering, missing value imputation, and tree-based models.
+---
 
 ## 🧰 Technologies Used
 
@@ -78,6 +82,7 @@ Data-Science-with-Python/
 - NLP: NLTK, spaCy, TF-IDF, Word2Vec
 - ML Ops: Git, Jupyter, VS Code, Google Colab
 - Other Tools: Pandas-Profiling, Optuna (for hyperparameter tuning)
+---
 
 ## ⚙️ How to Use
 ### Clone the repository
@@ -98,6 +103,7 @@ venv\Scripts\activate      # for Windows
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## 📊 Project Goals
 
@@ -105,29 +111,13 @@ This repository aims to:
 - Demonstrate versatility across multiple data science problem domains
 - Serve as a personal learning and experimentation hub
 - Showcase reproducible workflows and technical breadth
+---
 
 ## 👤 Author
 
 ### Tega Jarikre
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tega-jarikre-92138342)
-<br>
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tegazini)
-<br>
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jarikretega@gmail.com)
-
-<a href="mailto:jarikretega@gmail.com" target="_blank" style="text-decoration:none; color:#D44638;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-       alt="Gmail" width="22" height="22"
-       style="vertical-align:middle; margin-right:6px;">
-  jarikretega@gmail.com
-</a>
-<br>
-<a href="https://www.linkedin.com/in/tega-jarikre-92138342" target="_blank" style="text-decoration:none; color:#0A66C2;">
-  <img src="https://skillicons.dev/icons?i=linkedin" 
-       alt="LinkedIn" width="22" height="22" 
-       style="vertical-align:middle; margin-right:6px;">
-  linkedin.com/in/tega-jarikre-92138342
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tega-jarikre-92138342)
 
 ---
 
